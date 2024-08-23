@@ -3,6 +3,7 @@
 [![SDK-Python3](https://www.liqpay.ua/logo_liqpay_main.svg)](https://www.liqpay.ua/documentation/api/home)
 
 * Web: https://www.liqpay.ua/
+* Download: https://pypi.org/project/liqpay-async/
 * Source: https://github.com/SpaceIgor/liqpay-async
 * Documentation: https://www.liqpay.ua/documentation/en/
 * Keywords: liqpay, privat24, privatbank, python, internet acquiring, P2P payments, two-step payments
